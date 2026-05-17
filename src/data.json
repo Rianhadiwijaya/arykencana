@@ -1,0 +1,102 @@
+{
+  "settings": {
+    "artist_name": "Ary Kencana",
+    "tagline": "Suara Emas Bali",
+    "hero_subtitle": "Memancarkan keindahan suara dari Pulau Dewata",
+    "bio": "Ary Kencana adalah seorang penyanyi berbakat asal Bali yang memadukan keindahan musik tradisional Bali dengan sentuhan pop modern. Dengan suara khas yang hangat dan penuh ekspresi, ia menghadirkan harmoni antara tradisi leluhur dan melodi kontemporer.",
+    "instagram": "#",
+    "tiktok": "#",
+    "youtube": "#",
+    "spotify": "#",
+    "whatsapp": "6281234567890"
+  },
+  "albums": [
+    {
+      "id": 6,
+      "title": "meli dulang di penginapan",
+      "year": "2022",
+      "cover": "/uploads/img_6a03ed2f116bf2.63914894.jpg",
+      "spotify_url": "https://open.spotify.com/intl-id/track/0309dvIkSKY2tcNdXnLzGE",
+      "youtube_url": "https://www.youtube.com/watch?v=BtE3bz0nuzY",
+      "created_at": "2026-05-13 03:17:03"
+    },
+    {
+      "id": 5,
+      "title": "beli kuli luh",
+      "year": "2020",
+      "cover": "/uploads/img_6a03ec4f3cf9a0.24756321.jpg",
+      "spotify_url": "",
+      "youtube_url": "https://www.youtube.com/watch?v=FWS1eLEZtTs",
+      "created_at": "2026-05-13 03:13:19"
+    },
+    {
+      "id": 3,
+      "title": "Prana",
+      "year": "2022",
+      "cover": null,
+      "spotify_url": "#",
+      "youtube_url": "#",
+      "created_at": "2026-05-13 01:15:37"
+    },
+    {
+      "id": 2,
+      "title": "Dewata",
+      "year": "2024",
+      "cover": null,
+      "spotify_url": "#",
+      "youtube_url": "#",
+      "created_at": "2026-05-13 01:15:37"
+    },
+    {
+      "id": 1,
+      "title": "Kencana",
+      "year": "2026",
+      "cover": null,
+      "spotify_url": "#",
+      "youtube_url": "#",
+      "created_at": "2026-05-13 01:15:37"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 2,
+      "title": "Penampilan di SMKN 2 Sukawati",
+      "image": "/uploads/img_6a041e19aa8312.95951565.jpg",
+      "created_at": "2026-05-13 06:45:45",
+      "event_date": "2026-05-08"
+    },
+    {
+      "id": 1,
+      "title": "Event di SMA PGRI 5 Denpasar",
+      "image": "/uploads/img_6a041d0458fae0.97336731.jpg",
+      "created_at": "2026-05-13 06:41:08",
+      "event_date": "2026-05-07"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Malam Emas Bali — Grand Concert",
+      "event_date": "2026-06-15",
+      "location": "Taman Werdhi Budaya, Denpasar · Bali",
+      "status": "Tiket Tersedia",
+      "created_at": "2026-05-13 01:15:37"
+    },
+    {
+      "id": 2,
+      "title": "Festival Seni Ubud — Malam Budaya",
+      "event_date": "2026-06-28",
+      "location": "Puri Saren Ubud · Gianyar, Bali",
+      "status": "Tiket Tersedia",
+      "created_at": "2026-05-13 01:15:37"
+    },
+    {
+      "id": 3,
+      "title": "Konser Amal — Warisan Nusantara",
+      "event_date": "2026-07-12",
+      "location": "Gedung Kesenian Jakarta · Jakarta",
+      "status": "Segera Hadir",
+      "created_at": "2026-05-13 01:15:37"
+    }
+  ]
+}
