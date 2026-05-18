@@ -100,7 +100,7 @@ Error generating stack: `+e.message+`
         <div class="corner-ornament bl"></div>
         <div class="corner-ornament br"></div>
         <div class="portrait-inner">
-        <img src="/uploads/foto-hero.jpeg" class="hero-photo">
+        <img src="/public/uploads/foto-hero.jpeg" class="hero-photo">
       </div>
       </div>
     </div>
