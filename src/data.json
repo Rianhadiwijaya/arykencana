@@ -15,7 +15,7 @@
       "id": 6,
       "title": "meli dulang di penginapan",
       "year": "2022",
-      "cover": "/uploads/img_6a03ed2f116bf2.63914894.jpg",
+      "cover": "/uploads/foto1.jpg",
       "spotify_url": "https://open.spotify.com/intl-id/track/0309dvIkSKY2tcNdXnLzGE",
       "youtube_url": "https://www.youtube.com/watch?v=BtE3bz0nuzY",
       "created_at": "2026-05-13 03:17:03"
@@ -24,7 +24,7 @@
       "id": 5,
       "title": "beli kuli luh",
       "year": "2020",
-      "cover": "/uploads/img_6a03ec4f3cf9a0.24756321.jpg",
+      "cover": "/uploads/foto2.jpg",
       "spotify_url": "",
       "youtube_url": "https://www.youtube.com/watch?v=FWS1eLEZtTs",
       "created_at": "2026-05-13 03:13:19"
@@ -61,14 +61,14 @@
     {
       "id": 2,
       "title": "Penampilan di SMKN 2 Sukawati",
-      "image": "/uploads/img_6a041e19aa8312.95951565.jpg",
+      "image": "/uploads/foto_galeri1.jpg",
       "created_at": "2026-05-13 06:45:45",
       "event_date": "2026-05-08"
     },
     {
       "id": 1,
       "title": "Event di SMA PGRI 5 Denpasar",
-      "image": "/uploads/img_6a041d0458fae0.97336731.jpg",
+      "image": "/uploads/foto_galeri2.jpg",
       "created_at": "2026-05-13 06:41:08",
       "event_date": "2026-05-07"
     }
