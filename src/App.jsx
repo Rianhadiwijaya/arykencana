@@ -128,7 +128,7 @@ function App() {
 
                 <div className="album-year">{album.year}</div>
 
-                {album.youtube_url && (
+                {album.youtube_url && album.youtube_url !== "#" && (
                   <a
                     href={album.youtube_url}
                     target="_blank"
