@@ -4,75 +4,83 @@
     "tagline": "Suara Emas Bali",
     "hero_subtitle": "Memancarkan keindahan suara dari Pulau Dewata",
     "bio": "Ary Kencana adalah seorang penyanyi berbakat asal Bali yang memadukan keindahan musik tradisional Bali dengan sentuhan pop modern. Dengan suara khas yang hangat dan penuh ekspresi, ia menghadirkan harmoni antara tradisi leluhur dan melodi kontemporer.",
-    "instagram": "#",
-    "tiktok": "#",
-    "youtube": "#",
-    "spotify": "#",
+    "instagram": "https://instagram.com/ary_kencana",
+    "tiktok": "https://tiktok.com/@ary_kencana",
+    "youtube": "https://youtube.com/@arykencanaofficial",
+    "spotify": "https://open.spotify.com/",
     "whatsapp": "6281234567890"
   },
+
   "albums": [
     {
-      "id": 6,
+      "id": 1,
       "title": "meli dulang di penginapan",
       "year": "2022",
-      "cover": "/uploads/foto1.jpg",
+      "cover": "uploads/foto1.jpg",
       "spotify_url": "https://open.spotify.com/intl-id/track/0309dvIkSKY2tcNdXnLzGE",
       "youtube_url": "https://www.youtube.com/watch?v=BtE3bz0nuzY",
       "created_at": "2026-05-13 03:17:03"
     },
+
     {
-      "id": 5,
+      "id": 2,
       "title": "beli kuli luh",
       "year": "2020",
-      "cover": "/uploads/foto2.jpg",
+      "cover": "uploads/foto2.jpg",
       "spotify_url": "",
       "youtube_url": "https://www.youtube.com/watch?v=FWS1eLEZtTs",
       "created_at": "2026-05-13 03:13:19"
     },
+
     {
       "id": 3,
       "title": "Prana",
       "year": "2022",
-      "cover": null,
+      "cover": "uploads/foto-hero.jpeg",
       "spotify_url": "#",
       "youtube_url": "#",
       "created_at": "2026-05-13 01:15:37"
     },
+
     {
-      "id": 2,
+      "id": 4,
       "title": "Dewata",
       "year": "2024",
-      "cover": null,
+      "cover": "uploads/foto-hero.jpeg",
       "spotify_url": "#",
       "youtube_url": "#",
       "created_at": "2026-05-13 01:15:37"
     },
+
     {
-      "id": 1,
+      "id": 5,
       "title": "Kencana",
       "year": "2026",
-      "cover": null,
+      "cover": "uploads/foto-hero.jpeg",
       "spotify_url": "#",
       "youtube_url": "#",
       "created_at": "2026-05-13 01:15:37"
     }
   ],
+
   "gallery": [
     {
-      "id": 2,
+      "id": 1,
       "title": "Penampilan di SMKN 2 Sukawati",
-      "image": "/uploads/foto_galeri1.jpg",
+      "image": "uploads/foto_galeri1.jpg",
       "created_at": "2026-05-13 06:45:45",
       "event_date": "2026-05-08"
     },
+
     {
-      "id": 1,
+      "id": 2,
       "title": "Event di SMA PGRI 5 Denpasar",
-      "image": "/uploads/foto_galeri2.jpg",
+      "image": "uploads/foto_galeri2.jpg",
       "created_at": "2026-05-13 06:41:08",
       "event_date": "2026-05-07"
     }
   ],
+
   "events": [
     {
       "id": 1,
@@ -82,6 +90,7 @@
       "status": "Tiket Tersedia",
       "created_at": "2026-05-13 01:15:37"
     },
+
     {
       "id": 2,
       "title": "Festival Seni Ubud — Malam Budaya",
@@ -90,6 +99,7 @@
       "status": "Tiket Tersedia",
       "created_at": "2026-05-13 01:15:37"
     },
+
     {
       "id": 3,
       "title": "Konser Amal — Warisan Nusantara",
